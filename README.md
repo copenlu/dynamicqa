@@ -4,7 +4,7 @@
 This is a repository for the paper [DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models](https://arxiv.org/abs/2407.17023) accepted at Findings of EMNLP 2024.
 
 <p align="center">
-  <img src="sal_example.png" width="650" alt="main_figure">
+  <img src="main_figure.png" width="650" alt="main_figure">
 </p>
 
 Our paper investigates the Language Model's behaviour when the conflicting knowledge exist within the LM's parameters. We present a novel dataset containing inherently conflicting data, DYNAMICQA. Our dataset consists of three partitions, **Static**, **Disputable** 🤷‍♀️, and **Temporal** 🕰️.
