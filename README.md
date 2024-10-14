@@ -144,5 +144,7 @@ options:
   --verbose IS_VERBOSE            Boolean value indicating if SE value should be printed out.
 ```
 
-The average normalized SE will be printed to screen. The total final output is to `Output/[MODELNAME]_[MODE]_[USE_CONTEXT]_[CONTEXT_TYPE].pkl` where context_type varies between `q_only` is context is not provided and `q_and_c` if context is provided. The utilized SE is the column `predictive_entropy_over_concepts`
+The average normalized SE will be printed to screen. The total final output is to `Output/[MODELNAME]_[MODE]_[USE_CONTEXT]_[CONTEXT_TYPE].pkl` where context_type varies between `q_only` if context is not provided and `q_and_c` if context is provided.
+
+The utilized SE is the column `predictive_entropy_over_concepts`
 
