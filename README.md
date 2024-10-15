@@ -1,5 +1,5 @@
 
-# DYMANICQA
+# DYNAMICQA
 
 This is a repository for the paper [DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models](https://arxiv.org/abs/2407.17023) accepted at Findings of EMNLP 2024.
 
