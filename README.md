@@ -148,3 +148,14 @@ The average normalized SE will be printed to screen. The total final output is t
 
 The utilized SE is the column `predictive_entropy_over_concepts`
 
+## Citation
+If you use our code or dataset, kindly cite it using
+```
+@inproceedings{marjanović2024dynamicqatracinginternalknowledge,
+      title={DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models}, 
+      author={Sara Vera Marjanović and Haeun Yu and Pepa Atanasova and Maria Maistro and Christina Lioma and Isabelle Augenstein},
+      year={2024},
+      booktitle = {Findings of EMNLP},
+      publisher = {Association for Computational Linguistics}
+}
+```
